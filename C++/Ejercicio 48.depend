@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1491936312 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 48\main.cpp
+	<iostream>
+	"Empleado.h"
+	"Logica.h"
+
+1491934429 c:\users\omarm\dropbox\codeblocks proyects\ejercicio 48\include\empleado.h
+	<iostream>
+
+1491936319 c:\users\omarm\dropbox\codeblocks proyects\ejercicio 48\include\logica.h
+	"Empleado.h"
+	<iostream>
+
+1491933515 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 48\src\empleado.cpp
+	"Empleado.h"
+
+1491936690 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 48\src\logica.cpp
+	"Logica.h"
+
